@@ -17,6 +17,10 @@ body{
     padding-right: 80px;
     background-color: red;
 }
+.green{
+    background-color: green;
+    padding-bottom: 80px;
+}
 
 .flex{
     display: flex;
